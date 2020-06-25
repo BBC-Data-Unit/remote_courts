@@ -19,6 +19,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Chichester Observer: [Calls for Chichester’s former court buildings to be brought back into use](https://www.chichester.co.uk/news/crime/calls-chichesters-former-court-buildings-be-brought-back-use-2888000) *18 June 2020*
 * Cumbria News & Star: [Worries over virtual court](https://www.newsandstar.co.uk/news/18498005.worries-virtual-court/) *5 June 2020*
+* Cumberland News & Star: [Lockdown highlights hardships faced by Cumbria’s most disadvantaged residents in accessing justice](https://www.newsandstar.co.uk/news/18496918.virtual-courts-impact-concern/) *8 June 2020*
 * East Anglian Daily Times: [Concern over video court hearings becoming norm after lockdown](https://www.eadt.co.uk/news/virtual-court-hearing-fears-after-coronavirus-lockdown-1-6685708) *4 June 2020*
 * Pontefract & Castleford Express: [Remote court hearings held during lockdown have disadvantaged vulnerable people, charities say](https://www.pontefractandcastlefordexpress.co.uk/news/crime/remote-court-hearings-held-during-lockdown-have-disadvantaged-vulnerable-people-charities-say-2877620) *8 June 2020*
 * Rochdale Online: [Remote hearings 'could disadvantage more vulnerable people', lawyers and charities warn](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/134935/remote-hearings-could-disadvantage-more-vulnerable-people-lawyers-and-charities-warn) *11 June 2020*
